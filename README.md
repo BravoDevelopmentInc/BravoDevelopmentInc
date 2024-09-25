@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BravoInc
+- 👋 Hi, I’m @BravoInc (telegram)
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ and Java
+- 🌱 Currently inactive on github/telegram
 - 💞️ I’m looking to collaborate on specific projects
 - 📫 Reach me on telegram: @bravoinc
 
